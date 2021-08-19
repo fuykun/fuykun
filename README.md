@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Software Developer</h3>
 
-    <img src="https://komarev.com/ghpvc/?username=fuykun">
+<img src="https://komarev.com/ghpvc/?username=fuykun" />
 
 - 🔭 I’m currently working on **Win Young**
 
