@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuykun&label=Profile%20views&color=0e75b6&style=flat" alt="fuykun" /> </p>
 
-- 🔭 I’m currently working on **DigitArc**
+- 🔭 I'm working as a Software Engineer in **<a href="https://github.com/DigitArc">DigitArc</a>** (Dotnet-Consulting)
 
 - 📝 I regularly write articles on [fuykun.medium.com](fuykun.medium.com)
 
