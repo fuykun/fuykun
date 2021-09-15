@@ -5,7 +5,7 @@
 
 - 🔭 I'm working as a Software Developer in **<a href="https://github.com/DigitArc">DigitArc</a>** (Dotnet-Consulting)
 
-- 📝 I regularly write articles on <a href="https://fuykun.medium.com">[fuykun.medium.com](</a>
+- 📝 I regularly write articles on **<a href="https://fuykun.medium.com">fuykun.medium.com</a>**
 
 - 📫 How to reach me **fuykun@hotmail.com**
 
