@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Computer Engineer & Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuykun&label=Profile%20views&color=0e75b6&style=flat" alt="fuykun" /> </p>
-
 - 🔭 I'm working as a Software Developer in **<a href="https://github.com/DigitArc">DigitArc</a>** (Dotnet-Consulting)
 
 - 📝 I regularly write articles on **<a href="https://fuykun.medium.com">fuykun.medium.com</a>**
