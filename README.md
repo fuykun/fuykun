@@ -15,7 +15,6 @@
 <a href="https://medium.com/@fuykun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fuykun" height="30" width="40" /></a>
   <a href="https://dev.to/fuykun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fuykun" height="30" width="40" /></a>
 <a href="https://instagram.com/fuykun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuykun_" height="30" width="40" /></a>
-<a href="https://discord.gg/FUYKUN#7083" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FUYKUN#7083" height="30" width="40" /></a>
 
 </p>
 
