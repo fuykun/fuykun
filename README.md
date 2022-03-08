@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on **<a href="https://fuykun.medium.com">fuykun.medium.com</a>**
 
-- 📫 How to reach me **fuykun@hotmail.com**
+- 📫 How to reach me **me@fuykun.com** / **fuykun@hotmail.com**
 
 - **<a href="https://fuykun.com">fuykun.com</a>**
 
