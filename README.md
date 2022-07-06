@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Computer Engineer & Software Developer</h3>
 
-- 🔭 I'm working as a Software Developer in **<a href="https://github.com/DigitArc">DigitArc</a>** (Dotnet-Consulting)
+- 🔭 I'm working as a Software Developer in **<a href="http://dotnet-consulting.de/">DOTNET Turkey</a>**
 
 - 📝 I regularly write articles on **<a href="https://fuykun.medium.com">fuykun.medium.com</a>**
 
